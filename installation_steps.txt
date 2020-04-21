@@ -1,0 +1,4 @@
+To install the project
+1.COPY ALL FILE INTO A FOLDER NAME eCommerceProj
+2. Merge all files of node modules into one folder named node_modules.
+3.You are all set to go.
